@@ -1,6 +1,8 @@
 # [Git en GitHub]
-##Git## : is a version control software tool that help software teams manage changes to source code over time.
-##GitHub## : is built around the version control system Git, and therefore offers all the capabilities of Git for managing versions and source code.]
+## Git : 
+is a version control software tool that help software teams manage changes to source code over time.
+## GitHub : 
+is built around the version control system Git, and therefore offers all the capabilities of Git for managing versions and source code.]
 
 ## Key terminology
 - ***Distributed and centralized version control***
