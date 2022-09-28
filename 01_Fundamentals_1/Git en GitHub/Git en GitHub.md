@@ -28,7 +28,7 @@
 I had challenge with understanding all Github actions related to merge and pull request.
 
 ### Results
-1. I had already an Githunb account, but i didn't have Github desktop installed on my pc, thus i installed it.
+1. I had already a Githunb account, but i didn't have Github desktop installed on my pc, thus i installed it.
 ![Creating GitHub account!](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Git-01%20Git%20en%20GitHub/Github%20account.png)
 
 2. I had followed both ways to create a new repo, via the web version and desktop app of Github.
