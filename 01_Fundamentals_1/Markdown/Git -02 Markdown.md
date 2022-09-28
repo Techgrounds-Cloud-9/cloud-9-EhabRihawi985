@@ -12,9 +12,9 @@ WYSIWYM : usually offer a possibility to mark up content with style classes rath
 
 
 ## Key terminology
-** Markdown **  
-** WYSIWYG **  
-** WYSIWYM **  
+**Markdown**  
+**WYSIWYG**  
+**WYSIWYM**  
 
 ## Exercise
 ### Sources
