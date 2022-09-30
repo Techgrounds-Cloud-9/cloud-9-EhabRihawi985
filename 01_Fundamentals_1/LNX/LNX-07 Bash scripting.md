@@ -2,8 +2,11 @@
 [The default command line interface in Linux is called a Bash shell. You’ve already interacted with Linux using commands in this shell.]
 
 ## Key terminology
+
 **Bash shell**
+
 **Bash script**
+
 **PATH variable**
 
 
