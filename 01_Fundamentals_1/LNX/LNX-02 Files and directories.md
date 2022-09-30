@@ -39,3 +39,6 @@ Understanding the difference between absolute and relative paths.
 
 4. I used touch command to add new file with text in the directory.
 ![Within the techgrounds directory, create a file containing some text.](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-02%20Files%20and%20Directories/Within%20the%20techgrounds%20directory%2C%20create%20a%20file%20containing%20some%20text.png)
+
+5. Use absolute and relative path to move around the directory.
+![Use absolute and relative path to move around the directory.](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-02%20Files%20and%20Directories/Absolute%20and%20relative%20path.png)
