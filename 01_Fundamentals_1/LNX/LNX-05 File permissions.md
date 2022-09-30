@@ -35,7 +35,7 @@ https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat3/index.html
 ![Make the file executable by adding the execute permission (x).](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-05%20File%20permissions/LNX05-02.png)
 
 3. Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner.
-![Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-05%20File%20permissions/LNX05-03.png)
+![Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner]()
 
 4. Change the owner of the file to a different user.
 ![Change the owner of the file to a different user.](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-05%20File%20permissions/LNX05-04.png)
