@@ -8,7 +8,9 @@
 
 ## Exercise
 ### Sources
-
+- https://www.youtube.com/watch?v=rsxT4FfRBaM
+- https://www.youtube.com/watch?v=VLflTjd3lWA
+- https://www.youtube.com/watch?v=QJW6qnfhC70
 - https://www.youtube.com/watch?v=pg-HEGBpCQk
 
 ### Overcome challenges
