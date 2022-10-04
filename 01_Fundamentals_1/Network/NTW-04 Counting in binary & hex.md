@@ -17,6 +17,8 @@ N/A
 ### Results
 
 1. Translate the following decimal numbers into binary:
+
+
 -------------------:
  Decimal  |  Binary |
  --------: --------:
