@@ -18,8 +18,6 @@ N/A
 
 1. Translate the following decimal numbers into binary:
 
-
-
 |Decimal  |  Binary |
 |:--------|--------:|
 |16       | 10000   |
@@ -29,5 +27,33 @@ N/A
 |73       | 1001001 |
 
 
+2. Translate the following binary numbers into decimal:
+
+|Binary   | Decimal |
+|:--------|--------:|
+|1010 1010| 170     |
+|1111 0000| 240     |
+|1101 1011| 219     |
+|1010 0000| 160     |
+|0011 1010| 58      |
 
 
+3. Translate the following decimal numbers into hexadecimal:
+
+|Decimal  | Hex     |
+|:--------|--------:|
+|15       | F       |
+|37       | 25      |
+|246      | F6      |
+|125      | 7D      |
+|209      | D1      |
+
+4. Translate the following hexadecimal numbers into decimal:
+
+|Hex      | Decimal |
+|:--------|--------:|
+|88       | 136     |
+|e0       | 224     |
+|cb       | 203     |
+|2f       | 47      |
+|d8       | 216     |
