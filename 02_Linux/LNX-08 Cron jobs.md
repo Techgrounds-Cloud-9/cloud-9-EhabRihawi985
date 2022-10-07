@@ -36,4 +36,4 @@ https://www.cyberciti.biz/tips/shell-script-to-watch-the-disk-space.html
 
 3. Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.
 ![Create a script that writes available disk space to a log file in ‘/var/logs’. Use a cron job so that it runs weekly.](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-08%20Cron%20jobs/LNX08-06.png)
-(https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-08%20Cron%20jobs/LNX08-07.png)
+![](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/LNX-08%20Cron%20jobs/LNX08-07.png)
