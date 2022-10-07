@@ -20,6 +20,7 @@
 - https://www.wireshark.org/
 - https://www.iana.org/help/protocol-registration
 - https://networkencyclopedia.com/request-for-comments-rfc/
+- https://www.w3.org/
 
 
 ### Overcome challenges
@@ -86,6 +87,11 @@ Draft standard: Stable enough to develop implementations of the standard in appl
 Internet standard: Technically mature, widely implemented, and significantly beneficial to the Internet community 
 
 RFCs are sequentially numbered and published by the RFC Editor at the Information Sciences Institute at the University of Southern California.
+
+Another meaning:
+World Wide Web Consortium (W3C) Telecommunication Standardization Sector (ITU-T) Internet Architecture Board (IAB) Internet Assigned Numbers Authority (IANA) Internet Corperation for Assigned Names and Numbers (ICANN) Internet Engineering Task Force (IETF) Internet Society (ISOC) Internet Research Task Force (IRTF)
+
+For new protocol needed - have it accepted by an IETF working group.
 
 3. Look into wireshark and install this program. Try and capture a bit of your own network data. Search for a protocol you know and try to understand how it functions.
 
