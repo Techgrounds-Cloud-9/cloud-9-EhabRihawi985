@@ -27,7 +27,7 @@ N/A
 
 - For the second private subnetwork which needs to has minimum 30 hosts exlusive the NAT gatway, i selected the subnet: 10.0.0.0/26 which provides the hosting range: 10.0.0.1 to 10.0.0.62
 
-- For the third public subnetwork which need to has minimum 5 hosts exlusive the internet gateway, i selected the subnet: 10.0.0.96/29 which provides the hosting range: 10.0.0.97 to 10.0.0.102
+- For the third public subnetwork which need to has minimum 5 hosts exlusive the internet gateway, i selected the subnet: 10.0.0.96/28 which provides the hosting range: 10.0.0.97 to 10.0.0.110
 
 
 ![Network architect](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Network/Network.png)
