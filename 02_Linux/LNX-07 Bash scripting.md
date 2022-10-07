@@ -1,13 +1,19 @@
 # [LNX-07 Bash scripting]
-[The default command line interface in Linux is called a Bash shell. You’ve already interacted with Linux using commands in this shell.]
+[Bash is a Unix shell and command language can be used to automate software development tasks such as code compilation, debugging source code, change management and software testing.]
 
 ## Key terminology
 
 **Bash shell**
+- Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 
 **Bash script**
+- A Bash script is a plain text file which contains a series of commands.
 
 **PATH variable**
+- The PATH variable is an environment variable containing an ordered list of paths that Linux will search for executables when running a command.
+
+**httpd**
+- httpd is the Apache HyperText Transfer Protocol (HTTP) server program. It is designed to be run as a standalone daemon process. When used like this it will create a pool of child processes or threads to handle requests.
 
 
 ## Exercise
@@ -35,7 +41,7 @@ https://linuxhint.com/generate-random-number-bash/#:~:text=The%20random%20number
 https://linuxize.com/post/bash-exit/
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+N/A
 
 ### Results
 
