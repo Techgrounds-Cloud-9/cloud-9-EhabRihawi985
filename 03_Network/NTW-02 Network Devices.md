@@ -2,14 +2,30 @@
 [Network devices, or networking hardware, are physical devices that are required for communication and interaction between hardware on a computer network.]
 
 ## Key terminology
+
 **Hub**
+A hub is a physical layer networking device which is used to connect multiple devices in a network.
+
 **Switch**
+A switch is a device in a computer network that connects other devices together. Multiple data cables are plugged into a switch to enable communication between different networked devices.
+
 **Router**
+A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection.
+
 **Bridge**
+A bridge is a type of computer network device that provides interconnection with other bridge networks that use the same protocol. Bridge devices work at the data link layer of the Open System Interconnect (OSI) model, connecting two different networks together and providing communication between them.
+
 **Gateway**
+A computer that sits between different networks or applications. The gateway converts information, data or other communications from one protocol or format to another. A router may perform some of the functions of a gateway. An Internet gateway can transfer communications between an enterprise network and the Internet.
+
 **Modem**
+ a device that converts signals produced by one type of device  to a form compatible with another, There are three kinds of modems—Cable, DSL, and Fiber—that operate via different cable mediums depending on your Internet Service Provider (ISP)
+
 **Repeater**
+A repeater is an electronic device in a communication channel that increases the power of a signal and retransmits it, allowing it to travel further.
+
 **Access Point**
+An access point is a device that creates a wireless local area network, or WLAN, usually in an office or large building. An access point connects to a wired router, switch, or hub via an Ethernet cable, and projects a WiFi signal to a designated area.
 
 ## Exercise
 ### Sources

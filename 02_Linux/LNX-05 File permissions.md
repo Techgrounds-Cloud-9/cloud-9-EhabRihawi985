@@ -1,10 +1,13 @@
 # [LNX-05 File permissions]
-[Every file in Linux contains a set of permissions. There are separate permissions for reading, writing, and executing files (rwx).]
+[On a Linux system, each file and directory is assigned access rights for the owner of the file, the members of a group of related users, and everybody else. Rights can be assigned to read a file, to write a file, and to execute a file (i.e., run the file as a program).]
 
 ## Key terminology
-**set of permissions**
-**long listing**
 
+**set of permissions**
+The group permissions apply only to the group that has been assigned to the file or directory, they will not effect the actions of other users.
+
+**long listing**
+ls -l. The -l option signifies the long list format. This shows a lot more information presented to the user than the standard command.
 
 ## Exercise
 ### Sources
