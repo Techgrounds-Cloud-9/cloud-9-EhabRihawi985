@@ -34,10 +34,12 @@ N/A
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system.
 
 the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
 ![OSI model](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Network/OSI%20model.png)
 
 
 2. The TCP/IP model and its uses.
 TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. 
 TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet).
+
 ![OSI vs TCP/IP](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Network/comparison-of-OSI-and-TCPIP.jpg)
