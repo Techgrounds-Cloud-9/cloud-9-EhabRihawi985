@@ -46,7 +46,6 @@ Cryptography is the study of secure communications techniques that allow only th
 
 - https://www.quora.com/Is-there-any-other-way-to-share-a-secret-key-between-two-entities-without-using-public-key-cryptography
 
-- 
 
 ### Overcome challenges
 Sending the key encryption to my peer.
