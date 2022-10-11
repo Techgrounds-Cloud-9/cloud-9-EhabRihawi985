@@ -4,21 +4,21 @@
 ## Key terminology
 
 **Encryption**
-the process of converting information or data into a code, especially to prevent unauthorized access.
+is the process of converting information or data into a code, especially to prevent unauthorized access.
 "I use encryption to protect sensitive information transmitted online"
 
 **Symmetric**
-made up of exactly similar parts facing each other or around an axis; symmetrical.
+is made up of exactly similar parts facing each other or around an axis; symmetrical.
 "the structure is completely symmetric"
 
 **ciphers**
-A cipher is a secret code, usually one that's created using a mathematical algorithm. 
+is a secret code, usually one that's created using a mathematical algorithm. 
 
 **symmetric ciphers**
-A symmetric cipher is one that uses the same key for encryption and decryption.
+is one that uses the same key for encryption and decryption.
 
 **Caesar cipher**
-A Caesar cipher is a simple method of encoding messages.
+is a simple method of encoding messages.
 
 **cryptography**
 Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden.
