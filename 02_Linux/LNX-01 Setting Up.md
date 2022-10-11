@@ -2,10 +2,17 @@
 [Linux, like Windows or MacOS, is an operating system. It manages the communication between the physical device (hardware) and all computer programs (software).]
 
 ## Key terminology
+
 **virtual machine**
+A Virtual Machine (VM) is a compute resource that uses software instead of a physical computer to run programs and deploy apps.
+
 **hypervisor**
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
+
 **Linux distribution**
+
 **Container**
+
 **OpenSSH**
 
 ## Exercise
