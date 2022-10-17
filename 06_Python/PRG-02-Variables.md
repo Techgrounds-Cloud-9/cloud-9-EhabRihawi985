@@ -2,13 +2,18 @@
 [A variable can store a value. This value can then be accessed with the variable name in the code. This is useful if you want to use one value multiple times, or if you want to dynamically change the value.]
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+**Variable Names**
+    A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
+    * A variable name must start with a letter or the underscore character
+    * A variable name cannot start with a number
+    * A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+    * Variable names are case-sensitive (age, Age and AGE are three different variables)
 
 ## Exercise
 ### Sources
 - https://profile.w3schools.com/refresh-session?redirect_url=https%3A%2F%2Fwww
 
-- w3schools.com%2Fpython%2Fpython_variables_names.asp
+- https://www.w3schools.com/python/python_variables_names.asp
 
 ### Overcome challenges
 N/A
