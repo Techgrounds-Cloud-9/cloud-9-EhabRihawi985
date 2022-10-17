@@ -38,7 +38,7 @@ Exercise 1:
 * Make a new variable x and give it the value b + d. Print the value of x. This will raise an error. Fix it so that print(x) prints a float.
 * Write a comment above every line of code that tells the reader what is going on in your script.
 
-![Creating the variables](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%201-03.png)
+![Creating the variables](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%203-02.png)
 
 ![Variable x is created](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%202-03.png)
 
