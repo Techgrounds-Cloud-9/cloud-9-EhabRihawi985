@@ -23,16 +23,16 @@ An "if statement" is written by using the if keyword.]
 N/A
 
 ### Results
-# Exercise 1:
-## Create a new script.
-## Use the input() function to ask the user of your script for their name. If the name they input is your name, print a personalized welcome message. If not, print a different personalized message.
+* Exercise 1:
+1. Create a new script.
+2. Use the input() function to ask the user of your script for their name. If the name they input is your name, print a personalized welcome message. If not, print a different personalized message.
 
 ![Input function](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%205-01.png)
 
 
-# Exercise 2:
-## Create a new script.
-## Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.
+* Exercise 2:
+1. Create a new script.
+2. Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.
 
 ![If number meet cretirea](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%205-02.png)
 

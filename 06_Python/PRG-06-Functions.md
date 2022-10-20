@@ -26,33 +26,33 @@ A parameter is the variable listed inside the parentheses in the function defini
 N/A
 
 ### Results
-# Exercise 1:
-## Create a new script.
-## Import the random package.
-## Print 5 random integers with a value between 0 and 100.
+* Exercise 1:
+1. Create a new script.
+2. Import the random package.
+3. Print 5 random integers with a value between 0 and 100.
 
 ![Import random package](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%206-01.png)
 
-# Exercise 2:
-## Create a new script.
-## Write a custom function myfunction() that prints “Hello, world!” to the terminal. Call myfunction.
-## Rewrite your function so that it takes a string as an argument. Then, it should print “Hello, <string>!”.
+* Exercise 2:
+1. Create a new script.
+2. Write a custom function myfunction() that prints “Hello, world!” to the terminal. Call myfunction.
+3. Rewrite your function so that it takes a string as an argument. Then, it should print “Hello, <string>!”.
 
 ![function prints Hello world!](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%206-02.01.png)
 
 ![Function with str as argument](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%206-02.02.png)
 
 
-# Exercise 3:
-## Create a new script.
-## Copy the code below into your script.
+* Exercise 3:
+1. Create a new script.
+2. Copy the code below into your script.
     def avg():
         # write your code here
  
     x = 128
     y = 255
     z = avg(x,y)
-## print ("The average of",x,"and", y, "is", z)
-## Write the custom function avg() so that it returns the average of the given parameters.
+3. print ("The average of",x,"and", y, "is", z)
+4. Write the custom function avg() so that it returns the average of the given parameters.
 
 ![average calculation for 2 values](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%206-03.png)

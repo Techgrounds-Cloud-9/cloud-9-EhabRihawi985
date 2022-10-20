@@ -32,9 +32,9 @@ Dictionary items are presented in key:value pairs, and can be referred to by usi
 [Give a short description of the challeges you encountered, and how you solved them.]
 
 ### Results
-# Exercise 1:
-## Create a new script.
-## Create a dictionary with the following keys and values:
+* Exercise 1:
+1. Create a new script.
+2. Create a dictionary with the following keys and values:
 
     | Key | Value |
     | First name | Casper |
@@ -42,13 +42,13 @@ Dictionary items are presented in key:value pairs, and can be referred to by usi
     | Job title | Lead Learning Coach |
     | Company | TechGrounds |
 
-## Loop over the dictionary and print every key-value pair in the terminal.
+3. Loop over the dictionary and print every key-value pair in the terminal.
 
 ![Create dictionary](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%208-01.png)
 
-# Exercise 2:
-## Create a new script.
-## Use user input to ask for their information (first name, last name, job title, company). Store the information in a dictionary.
-## Write the information to a csv file (comma-separated values). The data should not be overwritten when you run the script multiple times.
+* Exercise 2:
+1. Create a new script.
+2. Use user input to ask for their information (first name, last name, job title, company). Store the information in a dictionary.
+3. Write the information to a csv file (comma-separated values). The data should not be overwritten when you run the script multiple times.
 
 ![Saving data set in csv file](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Python/Exercise%208-02.png)
