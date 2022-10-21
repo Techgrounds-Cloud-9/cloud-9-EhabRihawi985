@@ -15,55 +15,46 @@ print(" X list is :",x)
 
 
 
-def fun_one():
+def Computer_selection():
     comp = random.choice(x)
     return comp
-z = 0    
-z = fun_one()
+ 
+z = Computer_selection()
 
 print("Computer choose :",z)
 
 
 
 
-def func_two():
-    selection = int(input("enter (1 for rock) or (2 for paper) or (3 for scissors) "))
-    return selection
-
-q = 0
-
-func_two()
-
-q = func_two() 
-
-
-for i in range(0,1000):
-    if q == 1:
-        y = x[0]
-        print("You choose rock!")
-        break
-    elif q == 2:
-        y = x[1]
-        print("You choose for paper!")
-        break
-    elif q == 3:
-        y = x[2]
-        print("you choose for scissors!")
-        break
-    elif q == 0:
-        print("Please make selection between as 1 for rock or 2 for paper or 3 for scissors")
-        q = func_two()
-    else:
-        print("Please make selection between as 1 for rock or 2 for paper or 3 for scissors")
-        q = func_two()
-
+def Player_selection():
+    q = int(input("enter (1 for rock) or (2 for paper) or (3 for scissors) "))
+    x = ["rock", "paper", "scissors"]
+    while True:
+        if q == 1:
+            y = x[0]
+            print("You choose rock!")
+            return y
+        elif q == 2:
+            y = x[1]
+            print("You choose for paper!")
+            return y
+        elif q == 3:
+            y = x[2]
+            print("you choose for scissors!")
+            return y
+        elif q == 0:
+            q = int(input("enter (1 for rock) or (2 for paper) or (3 for scissors) "))
+        else:
+            q = int(input("enter (1 for rock) or (2 for paper) or (3 for scissors) "))
+        
+y = Player_selection()
 
 
 while True:
     if y == x[0] and z == x[0]:
         print("No drow, pick choice again!")
-        z  = fun_one()
-        y = func_two()
+        z  = Computer_selection()
+        y = Player_selection()
     elif y == x[0] and z == x[1]:
         print("Computer wins!")
         break
@@ -75,8 +66,8 @@ while True:
         break
     elif y == x[1] and z == x[1]:
         print("No drow, pick choice again!")
-        z = fun_one()
-        y = func_two()
+        z = Computer_selection()
+        y = Player_selection()
     elif y == x[1] and z == x[2]:
         print("Computer wins")
         break
@@ -88,8 +79,8 @@ while True:
         break
     elif y == x[2] and z == x[2]:
         print("No drow, pick choice again!")
-        z = fun_one()
-        y = func_two()
+        z = Computer_selection()
+        y = Player_selection()
     else:
         print("Please enter a value from the X list :",x)
-        y = func_two()
+        y = Player_selection()
