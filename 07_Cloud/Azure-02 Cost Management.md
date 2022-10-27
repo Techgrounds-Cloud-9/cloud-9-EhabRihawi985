@@ -18,10 +18,13 @@ An operational expenditure (Opex) is the money a company spends on an ongoing, d
 
 - https://www.investopedia.com/ask/answers/112814/whats-difference-between-capital-expenditures-capex-and-operational-expenditures-opex.asp
 
+- https://www.techtarget.com/searchstorage/definition/IOPS-input-output-operations-per-second
+
 ### Overcome challenges
 
 
-### Results
+### Bestudeer
+
 1. De Azure principes voor kostenmanagement
 
 These critical design principles are used as lenses to assess the Cost optimization of an application deployed on Azure. These lenses provide a framework for the application assessment questions.
@@ -60,3 +63,9 @@ Capital expenditures (CapEx) are major purchases a company makes that are design
 
 4. De TCO-calculator
 https://azure.microsoft.com/nl-nl/pricing/tco/calculator/
+
+
+### Results
+1. Maak een alert aan waarmee je eigen Cloud Pass kan monitoren.
+![Make alert on cost management](https://github.com/Techgrounds-Cloud-9/cloud-9-EhabRihawi985/blob/main/00_includes/Cloud/Ehab_cost_alert%20.png)
+
