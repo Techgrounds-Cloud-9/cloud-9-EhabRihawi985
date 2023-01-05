@@ -153,7 +153,7 @@ module StorageAccount 'StorageAccount.bicep' = {
   }
 }
 
-module NIC 'NIC.bicep' = {
+module NIC 'NIC1.bicep' = {
   name: nicName_var
   dependsOn: [
     Network1
